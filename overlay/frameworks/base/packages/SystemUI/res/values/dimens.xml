@@ -40,5 +40,5 @@
     <item name="pixel_pitch" format="float" type="dimen">58.39</item>
 
     <!-- the padding on the start of the statusbar -->
-    <dimen name="status_bar_padding_start">10dp</dimen>
+    <dimen name="status_bar_padding_start">11dp</dimen>
 </resources>
